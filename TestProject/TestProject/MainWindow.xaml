@@ -5,11 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TestProject"
         mc:Ignorable="d"
-<<<<<<< HEAD
         Title="MainWindow" Height="239.648" Width="389.83">
-=======
-        Title="MainWindow" Height="236.648" Width="379.83">
->>>>>>> parent of 3a21d40... Увеличил ширину окна
     <Grid>
         <Label x:Name="label" Content="Hello, World!" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,0"/>
 
