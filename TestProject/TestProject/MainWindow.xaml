@@ -8,7 +8,7 @@
         Title="MainWindow" Height="239.648" Width="389.83">
     <Grid>
         <!-- LOL -->
-        <Label x:Name="label" Content="Hello, World 123!"
+        <Label x:Name="label" Content="Hello, World 1234!"
                HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,0"/>
 
     </Grid>
