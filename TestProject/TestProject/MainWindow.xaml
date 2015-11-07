@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TestProject"
         mc:Ignorable="d"
-        Title="MainWindow" Height="256.648" Width="389.83">
+        Title="MainWindow" Height="238.648" Width="389.83">
     <Grid>
         <Label x:Name="label" Content="Hello, World!" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,0"/>
 
